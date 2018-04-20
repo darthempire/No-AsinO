@@ -20,6 +20,7 @@ namespace No_AsinO.Controllers
             return View();
         }
 
+        private string s;
         public ActionResult Contact()
         {
             ViewBag.Message = "Your contact page.";
