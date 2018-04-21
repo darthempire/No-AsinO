@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "No AsinO", "No AsinO\No AsinO.csproj", "{894B33B2-E13E-41C4-BD1E-056B3162B140}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FortuneDAL", "FortuneDAL\FortuneDAL.csproj", "{D6E8550C-7E07-443D-A402-B9995212D62D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FortuneBLL", "FortuneBLL\FortuneBLL.csproj", "{EA28DFA9-67E3-46AF-8D61-36D2E09DF483}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{894B33B2-E13E-41C4-BD1E-056B3162B140}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{894B33B2-E13E-41C4-BD1E-056B3162B140}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{894B33B2-E13E-41C4-BD1E-056B3162B140}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6E8550C-7E07-443D-A402-B9995212D62D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6E8550C-7E07-443D-A402-B9995212D62D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6E8550C-7E07-443D-A402-B9995212D62D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6E8550C-7E07-443D-A402-B9995212D62D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA28DFA9-67E3-46AF-8D61-36D2E09DF483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA28DFA9-67E3-46AF-8D61-36D2E09DF483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA28DFA9-67E3-46AF-8D61-36D2E09DF483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA28DFA9-67E3-46AF-8D61-36D2E09DF483}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
